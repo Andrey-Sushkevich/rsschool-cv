@@ -29,10 +29,10 @@ ol {
 
 ol,
 img {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 img {
     width: auto;
-    border: rgba(56, 167, 233, 1) 1px ridge;
+    border: rgba(86, 107, 213, 1) 1px yellowgreen;
 }
